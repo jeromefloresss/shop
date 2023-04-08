@@ -84,5 +84,5 @@
         </main>
     </div>
 </body>
-
+@yield('javascript')
 </html>
